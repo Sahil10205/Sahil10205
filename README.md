@@ -15,7 +15,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧠 **[HireSense AI](https://github.com/Sahil10205/Hiresense_AI)** | NLP-based ATS resume analyzer — TF-IDF + cosine similarity scoring against job descriptions. Live at [hiresense.vercel.app](https://hiresense.vercel.app) | Flask, Python, NLP |
+| 🧠 **[HireSense AI](https://github.com/Sahil10205/Hiresense_AI)** | NLP-based ATS resume analyzer — TF-IDF + cosine similarity scoring against job descriptions. Live at [hiresense.vercel.app]() | Flask, Python, NLP |
 | 📈 **[Smart Price Predictor](https://github.com/Sahil10205/Smart-price-predictor)** | Random Forest regression model trained on 42k+ records, hitting 99.5% R² | Python, scikit-learn |
 | 💻 **[Personal Portfolio](https://github.com/Sahil10205/Sahil10205.github.io)** | My personal site — projects, resume, and contact | HTML, CSS, JS |
 | 📊 **[ML_Git_Lab](https://github.com/Sahil10205/ML_Git_Lab)** | Machine learning lab exercises and experiments | Python |
